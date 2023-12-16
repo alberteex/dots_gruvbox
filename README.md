@@ -8,9 +8,12 @@
 </div>
 
 <div align="center">
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/alberteex/dots_gruvbox?style=for-the-badge&labelColor=%23282828&color=%23d79921)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/alberteex/dots_gruvbox/main?style=for-the-badge&labelColor=%2398971a&color=%23282828)
 ![GitHub watchers](https://img.shields.io/github/watchers/alberteex/dots_gruvbox?style=for-the-badge&labelColor=%23cc241d&color=%23282828)
+</a>
+
 </div>
 
 # Software
