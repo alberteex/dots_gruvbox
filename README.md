@@ -16,6 +16,8 @@
 
 </div>
 
+![1](https://github.com/alberteex/dots_gruvbox/blob/60db80100a5cf2f518c8a17c3fc5a1d030b4ac3e/assets/1.png)
+
 # Software
 
 - **OS**: [archlinux](https://archlinux.org/)
