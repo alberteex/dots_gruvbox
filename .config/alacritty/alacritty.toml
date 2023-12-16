@@ -1,0 +1,36 @@
+[window]
+opacity = 0.85
+blur = true
+decorations = 'None'
+
+[font]
+size = 11
+
+normal = { family = 'JetBrainsMono NF', style ='normal' }
+bold = { family = 'JetBrainsMono NF', style ='bold' }
+italic = { family = 'JetBrainsMono NF', style ='italic' }
+bold_italic = { family = 'JetBrainsMono NF', style = 'bold_italic' }
+
+[colors.primary]
+foreground = "#ebdbb2"
+background = "#282828"
+
+[colors.normal]
+black = "#282828"
+red = "#cc241d"
+green = "#fb4934"
+yellow = "#d79921"
+blue = "#458588"
+magenta = "#b16286"
+cyan = "#689d6a"
+white = "#a89984"
+
+[colors.bright]
+black = "#282828"
+red = "#fb4934"
+green = "#b8bb26"
+yellow = "#fabd2f"
+blue = "#83a598"
+magenta = "#d3869b"
+cyan = "#8ec07c"
+white = "#ebdbb2"

@@ -1,0 +1,121 @@
+*{ 
+    all: unset;
+    font-family: JetBrains Mono;
+    font-size: 13px;
+    min-height: 0;
+}
+
+window#waybar{
+	background-color: #282828;
+	border-radius: 4px;
+}
+
+#workspaces button{
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: 3px;
+	margin-right: 3px;
+	padding: 35px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	border-radius: 15px;
+}
+
+#workspaces button.active{
+	background: #fabd2f;
+	border-color: #d65d0e;
+}
+
+#workspaces button{
+	background: #946905;
+}
+
+#workspaces button.hover{
+	opacity: 0.3;
+}
+
+#clock{
+	background-color: #458588;
+	padding: 17px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: 3px;
+	margin-right: 3px;
+	border-radius: 15px;
+}
+
+#disk{
+	background-color: #d79921;
+	padding: 17px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: 3px;
+	margin-right: 3px;
+	border-radius: 15px;
+}
+
+#memory{
+	background-color: #98971a;
+	padding: 17px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: 3px;
+	margin-right: 3px;
+	border-radius: 15px;
+}
+
+#cpu{
+	background-color: #cc241d;
+	padding: 17px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: 7px;
+	margin-right: 3px;
+	border-radius: 15px;
+}
+
+#tray{
+	background-color: #d65d0e;
+	padding: 17px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: 3px;
+	margin-right: 3px;
+	border-radius: 15px;
+}
+
+#custom-spotify{
+	background-color: #98971a;
+	padding: 17px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: 3px;
+	margin-right: 3px;
+	border-radius: 15px;
+
+}
+
+#wireplumber{
+	background-color: #b16286;
+	padding: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: 3px;
+	margin-right: 3px;
+	border-radius: 15px;
+
+}
